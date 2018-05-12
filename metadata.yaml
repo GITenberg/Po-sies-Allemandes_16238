@@ -1,0 +1,44 @@
+_repo: Po-sies-Allemandes_16238
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Nerval, Gérard de
+    aliases:
+    - Cadet-Roussel
+    - Beuglant
+    - Puycousin, Edouard de
+    - Labrunie, Gérard
+    - Puycousin, Édouard de
+    - Nerval, Gerard de
+    birthdate: 1808
+    deathdate: 1855
+    gutenberg_agent_id: '6559'
+    url: http://www.gutenberg.org/2009/agents/6559
+    wikipedia: http://en.wikipedia.org/wiki/Gérard_de_Nerval
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Klopstock, Friedrich Gottlieb
+    alias: Klopstock, Frederick
+    birthdate: 1724
+    deathdate: 1803
+    gutenberg_agent_id: '6558'
+    url: http://www.gutenberg.org/2009/agents/6558
+    wikipedia: http://en.wikipedia.org/wiki/Friedrich_Gottlieb_Klopstock
+description: ''
+gutenberg_bookshelf: FR Poésie
+gutenberg_issued: '2005-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16238'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German poetry -- History and criticism'
+- !lcc 'PT'
+title: Poésies Allemandes
+url: http://www.gutenberg.org/ebooks/16238
