@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6558
     wikipedia: http://en.wikipedia.org/wiki/Friedrich_Gottlieb_Klopstock
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16238#Po-sies-Allemandes
 gutenberg_bookshelf: FR Poésie
 gutenberg_issued: '2005-07-07'
 gutenberg_type: Text
